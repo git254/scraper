@@ -1,0 +1,16 @@
+#instance#
+this is the master instance.
+
+#code#
+asins:
+This file stores all the asins number that needs be fetched from amazon.
+asin_spider.py:
+it reads parameter input from parameter.db and outputs asisn:
+backup:
+backup files
+install_packages.sh:
+run this after launching instances to install necessary libraries
+parameter.db:
+persistent database for storing asins
+setup_parameter.py:
+setup all the parameters  before running program
